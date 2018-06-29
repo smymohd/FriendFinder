@@ -88,6 +88,6 @@ var friendArray = [
         ]
     },
 ];
-module.expoers = friends;
+module.exports = friends;
 
 
